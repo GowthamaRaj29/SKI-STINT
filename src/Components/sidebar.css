@@ -1,0 +1,54 @@
+.mainSidebarContainer {
+    flex: 0.8;
+    background-color: white;
+    height: 100vh;
+}
+
+.ulContainer{
+    margin-top: 30px;
+}
+
+.liContainer{
+    display: flex;
+    align-items: center;
+    margin-top: -7px;
+}
+
+.menu{
+    display: flex;
+}
+
+.adminContainer{
+    display: flex;
+    margin-top: -10px;
+}
+.tools{
+    font-size: 12px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    color: rgb(88, 90, 94);
+    font-weight: 500;
+}
+.logoicon{
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 85px;
+}
+.sidebaricons{
+    width: 20px;
+    height: 20px;
+}
+
+.itemNames{
+    margin-left: 10px;
+    color: rgb(70, 71, 72);
+}
+
+.logout{
+    margin-top: 350px;
+}
+
+.button{
+    color: yellow;
+}
